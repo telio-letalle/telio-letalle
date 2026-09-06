@@ -1,3 +1,5 @@
+## A la recherche d'un stage à partir d'avril 2027, 8 à 10 semaines, me contacter par email
+
 → Étudiant en deuxième année  
 → Réalisation d'applications, Conception, Développement, et Validation  
 → Intérêt pour le développement, Linux et les technologies open source
