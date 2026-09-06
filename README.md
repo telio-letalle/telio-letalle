@@ -1,4 +1,4 @@
-→ Étudiant en BUT Informatique  
+→ Étudiant en deuxième année  
 → Réalisation d'applications, Conception, Développement, et Validation  
 → Intérêt pour le développement, Linux et les technologies open source
 
@@ -41,23 +41,3 @@
 </p>
 
 **JavaFX · FileZilla**
-
----
-
-## Contact
-
-<p align="left">
-  <a href="https://github.com/telio-letalle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://fr.linkedin.com/in/telio-letalle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-</p>
-
-**Mail Pro :** [telioletallesae@gmail.com](mailto:telioletallesae@gmail.com)
-
-**Portfolio :** [letallepro.netlify.app](https://letallepro.netlify.app)
-
-**LinkedIn :** [linkedin.com/in/telio-letalle](https://fr.linkedin.com/in/telio-letalle)
