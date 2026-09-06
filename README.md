@@ -1,5 +1,3 @@
-# Télio Letalle
-
 → Étudiant en BUT Informatique  
 → Réalisation d'applications, Conception, Développement, et Validation  
 → Intérêt pour le développement, Linux et les technologies open source
@@ -46,38 +44,6 @@
 
 ---
 
-## Projets
-
-### Discovery Piscine 42
-
-Projet réalisé dans le cadre de la Discovery Piscine 42.
-
-**Technologies :** HTML · CSS · JavaScript
-
-[Voir le projet →](https://github.com/telio-letalle/discovery-piscine-42)
-
-### Nuit de l'Info 2025
-
-Projet réalisé dans le cadre de la **Nuit de l'Info 2025**.
-
-[Voir le projet →](https://github.com/CapyNDI2025)
-
-### Pronote
-
-Projet de développement d'une application inspirée de **Pronote**.
-
-**Technologies :** PHP · SQL · HTML · CSS · JavaScript
-
-[Voir le projet →](https://github.com/telio-letalle/pronote-main)
-
-### Dominion Seaside
-
-Projet de développement d'une adaptation du jeu de deck-building **Dominion Seaside**.
-
-**Technologies :** Java · JavaFX
-
----
-
 ## Contact
 
 <p align="left">
@@ -93,7 +59,5 @@ Projet de développement d'une adaptation du jeu de deck-building **Dominion Sea
 **Mail Pro :** [telioletallesae@gmail.com](mailto:telioletallesae@gmail.com)
 
 **Portfolio :** [letallepro.netlify.app](https://letallepro.netlify.app)
-
-**GitHub :** [github.com/telio-letalle](https://github.com/telio-letalle)
 
 **LinkedIn :** [linkedin.com/in/telio-letalle](https://fr.linkedin.com/in/telio-letalle)
