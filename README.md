@@ -1,4 +1,4 @@
-## A la recherche d'un stage à partir d'avril 2027, 8 à 10 semaines, veuillez me contacter par email si proposition : [telioletallesae@gmail.com](mailto:telioletallesae@gmail.com)
+## A la recherche d'un stage dans le développement d'applications à partir d'avril 2027, 8 à 10 semaines, veuillez me contacter par email si proposition : [telioletallesae@gmail.com](mailto:telioletallesae@gmail.com)
 
 → Étudiant en deuxième année  
 → Réalisation d'applications, Conception, Développement, et Validation  
