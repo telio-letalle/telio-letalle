@@ -1,4 +1,6 @@
-## A la recherche d'un stage dans le développement d'applications à partir d'avril 2027, 8 à 10 semaines, veuillez me contacter par email si proposition : [telioletallesae@gmail.com](mailto:telioletallesae@gmail.com)
+## A la recherche d'un stage dans le développement d'applications à partir d'avril 2027, 8 à 10 semaines, veuillez me contacter par email si mon profil, en tant que personne, vous intéresse : [telioletallesae@gmail.com](mailto:telioletallesae@gmail.com)
+
+## Projet en cours : [sae3_alumni_but2info](https://gitlabinfo.iutmontp.univ-montp2.fr/letallet/sae3_alumni_but2info) *sera cloné sur ce profil à sa fin.*
 
 → Étudiant en deuxième année  
 → Réalisation d'applications, Conception, Développement, et Validation  
