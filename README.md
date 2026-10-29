@@ -1,4 +1,4 @@
-## A la recherche d'un stage dans le développement d'applications à partir d'avril 2027, 8 à 10 semaines, veuillez me contacter par email si mon profil, en tant que personne, vous intéresse : [telioletallesae@gmail.com](mailto:telio.letalle@tutamail.com)
+## A la recherche d'un stage dans le développement d'applications à partir d'avril 2027, 8 à 10 semaines, veuillez me contacter par email si mon profil, en tant que personne, vous intéresse : [telio.letalle@tutamail.com](mailto:telio.letalle@tutamail.com)
 
 ## Projet en cours : [sae3_alumni_but2info](https://gitlabinfo.iutmontp.univ-montp2.fr/sae3a/projets/letallet-derrieuxs-lahouds-auquiert/sae3a-base) *sera cloné sur ce profil à sa fin.*
 
